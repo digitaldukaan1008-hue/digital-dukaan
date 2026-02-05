@@ -316,10 +316,11 @@ nav ul li a:hover{
 @media (max-width: 768px){
   .back-btn{
     left: 10px;
-    top: 100px;
+    top: 200px;
     font-size: 15px;
   }
 }
+
 
 
 
