@@ -314,12 +314,14 @@ nav ul li a:hover{
 
   /* BACK BUTTON */
   .back-btn{
-    position: fixed;
-  top: 22250px;    /* distance from top */
-  left: 5225px;    /* distance from left */
+  position: fixed;   /* important */
+  left: 5px;        /* move to LEFT side */
+  top: 80px;        /* move down from top */
+  padding: 10px 16px;
   font-size: 16px;
   z-index: 1000;
 }
+
 
 
 
