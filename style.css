@@ -313,14 +313,15 @@ nav ul li a:hover{
   }
 
   /* BACK BUTTON */
+@media (max-width: 768px){
   .back-btn{
-  position: fixed;   /* important */
-  left: 15px;        /* move to LEFT side */
-  top: 120px;        /* move down from top */
-  padding: 10px 16px;
-  font-size: 16px;
-  z-index: 1000;
+    left: 10px;
+    top: 100px;
+    font-size: 15px;
+  }
 }
+
+
 
 
 
