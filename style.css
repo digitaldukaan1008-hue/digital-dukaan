@@ -243,7 +243,7 @@ nav ul li a:hover{
   .hero{
     height: auto;
     padding: 80px 20px;
-    background-position: center;
+    background-position: left;
   }
 
   .hero h1{
@@ -320,6 +320,7 @@ nav ul li a:hover{
     font-size: 16px;
   }
 }
+
 
 
 
