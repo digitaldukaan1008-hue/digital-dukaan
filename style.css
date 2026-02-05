@@ -314,12 +314,13 @@ nav ul li a:hover{
 
   /* BACK BUTTON */
   .back-btn{
-    position: static;
+    position: relative;
     display: inline-block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 16px;
   }
 }
+
 
 
 
